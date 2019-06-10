@@ -2,7 +2,7 @@
 大连理工大学课程攻略共享计划
 ========
 
-受[zju-icicles](https://qsctech.github.io/zju-icicles/)项目启发，决定建立咱大工的课程攻略共享库，这样一届届的经验可以很好地传递下来，需要资料的时候也不需要再去到处找群、找人啦！
+受浙江大学[zju-icicles](https://qsctech.github.io/zju-icicles/)项目启发，决定建立咱大工的课程攻略共享库，这样一届届的经验可以很好地传递下来，需要资料的时候也不需要再去到处找群、找人啦！
 
 **欢迎贡献！**
 
@@ -48,5 +48,7 @@
 [浙江大学](https://qsctech.github.io/zju-icicles/)
 
 [中国科学技术大学](https://ustc-resource.github.io/USTC-Course/)
+
+[上海交通大学](https://github.com/CoolPhilChen/SJTU-Courses/)
 
 大家可以跨校学习借鉴！
