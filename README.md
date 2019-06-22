@@ -29,7 +29,7 @@
 
 由于本项目体积很大，故可以采用在Github Web端直接上传的方式，具体操作如下：
 
-1 首先需要Fork本项目：点击右上角的Fork按键即可。
+1 首先需要Fork本项目：电脑浏览器中打开本项目https://github.com/libdlut/libdlut ，然后点击右上角的Fork按键即可。
 
 2.1 上传文件到已有文件夹：打开对应文件夹，点击绿色Download按钮旁的upload，上传你的文件，以中文填写下方的文件介绍，确认无误后点击Commit。
 
