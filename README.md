@@ -24,13 +24,8 @@
 
 使用方法
 ======
-**下载方法**
-
-下载某个文件，直接点开它在预览界面中点击Download即可；下载单个文件夹，复制该文件夹的网址，粘贴入[DownGit](https://minhaskamal.github.io/DownGit/#/home)中，选择download即可；下载整个项目，点击项目首页绿色的“Clone or download”按钮。
 
 **贡献方法**
-
-对于课程和教师的评价可写在对应课程的readme.md中，方法：点开课程文件夹，点击Create new file，创建readme.md。
 
 由于本项目体积很大，故可以采用在Github Web端直接上传的方式，具体操作如下：
 
@@ -44,9 +39,19 @@
 
 3 提交 PR：上传完文件到个人仓库之后，在个人仓库主页点击 Pull Request 即可。请留意一下项目的文件组织。
 
-**由于本仓库未启用`git-lfs`，因此请不要上传单个超过100M的文件，否则commit无效。**可以上传网盘（共享时间设为无限）后将链接写在对应课程文件夹的readme中，对于PDF可以使用[PDF切割软件](https://pdfsam.org/zh/download-pdfsam-basic/)。
+对于课程和教师的评价可写在对应课程的readme.md中，方法：点开课程文件夹，点击Create new file，创建readme.md。
+
+<strong>由于本仓库未启用`git-lfs`，因此请不要上传单个超过100M的文件，否则commit无效。</strong>可以上传网盘（共享时间设为无限）后将链接写在对应课程文件夹的readme中，对于PDF可以使用[PDF切割软件](https://pdfsam.org/zh/download-pdfsam-basic/)。
 
 如果希望匿名贡献，可以email至此邮箱，注明"libdlut"即可：libdlut@protonmail.com
+
+**下载方法**
+
+下载某个文件，直接点开它在预览界面中点击Download即可；
+
+下载单个文件夹，复制该文件夹的网址，粘贴入[DownGit](https://minhaskamal.github.io/DownGit/#/home)中，选择download即可（这个小工具加载速度有些慢，Chrome、搜狗、360等Chromium系浏览器与火狐浏览器可以使用GitZip插件 [Chrome下载](https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn)  [火狐下载](https://addons.mozilla.org/en-US/firefox/addon/gitzip/)，如果大家有更好的GitHub下载工具欢迎在issue中告诉我们）；
+
+下载整个项目，点击项目首页绿色的“Clone or download”按钮。
 
 许可
 =====
