@@ -1,14 +1,52 @@
 # libdlut
-大连理工大学课程攻略共享计划
+前言
 ========
+来到一所大学，从第一次接触许多课，直到一门一门完成，这个过程中我们时常收集起许多资料和情报。
 
-受浙江大学[zju-icicles](https://qsctech.github.io/zju-icicles/)项目启发，决定建立咱大工的课程攻略共享库，这样一届届的经验可以很好地传递下来，需要资料的时候也不需要再去到处找群、找人啦！
+有些是需要在网上搜索的电子书，每次见到一门新课程，Google 一下教材名称，有的可以立即找到，有的却是要花费许多眼力；有些是历年试卷或者 A4 纸，前人精心收集制作，抱着能对他人有用的想法公开，却需要在各个群或者贴吧论坛中摸索以至于从学长手中代代相传；有些是上完一门课才恍然领悟的技巧，原来这门课重点如此，当初本可以更轻松地完成得更好……
+
+我也曾很努力地收集各种课程资料，但到最后，某些重要信息的得到却往往依然是纯属偶然。这种状态时常令我感到后怕与不安。我也曾在课程结束后终于有了些许方法与总结，但这些想法无处诉说，最终只能把花费时间与精力才换来的经验耗散在了漫漫的遗忘之中。
+
+我为这一年一年，这么多人孤军奋战的重复劳动感到不平。
+
+我希望能够将这些隐晦的、不确定的、口口相传的资料和经验，变为公开的、易于获取的和大家能够共同完善、积累的共享资料。
+
+我希望只要是前人走过的弯路，后人就不必再走。这是我的信念，也是我建立这个项目的原因。
+
+
+<strong>这段前言来自浙江大学[zju-icicles](https://qsctech.github.io/zju-icicles/)项目，作者[zhanghai](https://github.com/zhanghai)。</strong>受到该项目的启发，我们决定建立咱大工自己的课程攻略共享平台，让我们也能告别孤军奋战的重复劳动。
 
 **欢迎贡献！**
 
 **欢迎贡献！**
 
 **欢迎贡献！**
+
+使用方法
+======
+**下载方法**
+
+下载某个文件，直接点开它在预览界面中点击Download即可；下载单个文件夹，复制该文件夹的网址，粘贴入[DownGit](https://minhaskamal.github.io/DownGit/#/home)中，选择download即可；下载整个项目，点击项目首页绿色的“Clone or download”按钮。
+
+**贡献方法**
+
+对于课程和教师的评价可写在对应课程的readme.md中，方法：点开课程文件夹，点击Create new file，创建readme.md。
+
+由于本项目体积很大，故可以采用在Github Web端直接上传的方式，具体操作如下：
+
+1 首先Fork本项目，点击右上角的Fork按键即可，你的个人仓库中将出现本项目。
+
+2.1 上传文件到已有文件夹：打开对应文件夹，点击绿色Download按钮旁的upload，上传你的文件，以中文填写下方的文件介绍，确认无误后点击Commit。
+
+2.2 上传文件到新文件夹：首先在本地建立好文件夹结构，再点击upload按钮，直接将总文件夹拖拽到浏览器界面中，以中文填写下方的文件介绍，确认无误后点击Commit。
+
+2.3 修改、增添已有文件：在个人仓库中修改文件后，以中文填写下方的文件介绍，确认无误后点击Commit。
+
+3 提交 PR：上传完文件到个人仓库之后，在个人仓库主页点击 Pull Request 即可。请留意一下项目的文件组织。
+
+**由于本仓库未启用`git-lfs`，因此请不要上传单个超过100M的文件，否则commit无效。**可以上传网盘（共享时间设为无限）后将链接写在对应课程文件夹的readme中，对于PDF可以使用[PDF切割软件](https://pdfsam.org/zh/download-pdfsam-basic/)。
+
+如果希望匿名贡献，可以email至此邮箱，注明"libdlut"即可：libdlut@protonmail.com
 
 许可
 =====
@@ -41,14 +79,15 @@
 
 部分其他高校库
 =============
-[北京大学](https://lib-pku.github.io/)
 
-[清华大学计算机课程](https://github.com/PKUanonym/REKCARC-TSC-UHT)
+[浙江大学](https://qsctech.github.io/zju-icicles/)(项目开始于2016.6）
 
-[浙江大学](https://qsctech.github.io/zju-icicles/)
+[上海交通大学](https://github.com/CoolPhilChen/SJTU-Courses/)(项目开始于2018.6）
 
-[中国科学技术大学](https://ustc-resource.github.io/USTC-Course/)
+[北京大学](https://lib-pku.github.io/)(项目开始于2018.11）
 
-[上海交通大学](https://github.com/CoolPhilChen/SJTU-Courses/)
+[中国科学技术大学](https://ustc-resource.github.io/USTC-Course/)(项目开始于2019.3）
 
-大家可以跨校学习借鉴！
+[清华大学计算机课程](https://github.com/PKUanonym/REKCARC-TSC-UHT)(项目开始于2019.6）
+
+大家可以跨校学习借鉴！（列表以项目开始时间为序）
