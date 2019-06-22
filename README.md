@@ -1,4 +1,4 @@
-# 大连理工大学课程攻略共享计划
+# 大连理工大学课程攻略共享公益项目
 前言
 ========
 来到一所大学，从第一次接触许多课，直到一门一门完成，这个过程中我们时常收集起许多资料和情报。
@@ -14,7 +14,7 @@
 我希望只要是前人走过的弯路，后人就不必再走。这是我的信念，也是我建立这个项目的原因。
 
 
-<strong>这段前言来自浙江大学[zju-icicles](https://qsctech.github.io/zju-icicles/)项目，作者[zhanghai](https://github.com/zhanghai)。</strong>受到该项目的启发，我们决定建立咱大工自己的课程攻略共享平台，让我们也能告别孤军奋战的重复劳动。
+<strong>这段前言来自浙江大学公益项目[zju-icicles](https://qsctech.github.io/zju-icicles/)，作者[zhanghai](https://github.com/zhanghai)。</strong>受到该项目的启发，我们决定建立咱大工自己的课程攻略共享平台，让我们也能告别孤军奋战的重复劳动。
 
 **欢迎贡献！**
 
